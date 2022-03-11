@@ -1,3 +1,0 @@
-making of single component file
-using of button into different folders
-making of the js, css main file seprately
